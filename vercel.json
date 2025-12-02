@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd baseapp && npm install && npm run build",
+  "outputDirectory": "baseapp/build"
+}
