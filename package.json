@@ -5,19 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gittysam456/CrowdFund.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gittysam456/CrowdFund/issues"
-  },
-  "homepage": "https://github.com/gittysam456/CrowdFund#readme",
   "description": "",
   "dependencies": {
-    "ethers": "^6.15.0"
+    "bootstrap": "^5.3.8"
   }
 }
